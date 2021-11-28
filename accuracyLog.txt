@@ -1,0 +1,35 @@
+focal ada + aug + gauumai(2.8)
+Overall Acc: 0.956752
+Mean Acc: 0.650167
+FreqW Acc: 0.918285
+Mean IoU: 0.606332
+
+focal ada + aug(hflip) + histavg
+Overall Acc: 0.950719
+Mean Acc: 0.611983
+FreqW Acc: 0.907617
+Mean IoU: 0.566415
+
+focal ada + aug(hflip) + gauumai(3.0)+ crop(35)
+Overall Acc: 0.957551
+Mean Acc: 0.674930
+FreqW Acc: 0.920050
+Mean IoU: 0.623408
+
+1nd train flip
+Overall Acc: 0.958409
+Mean Acc: 0.677007
+FreqW Acc: 0.921774
+Mean IoU: 0.619234
+
+2nd finetune train MultiNoise
+Overall Acc: 0.974881
+Mean Acc: 0.750294
+FreqW Acc: 0.952008
+Mean IoU: 0.703659
+
+3nd finetune RandomSnow() RandomShadow()
+Overall Acc: 0.974478
+Mean Acc: 0.744311
+FreqW Acc: 0.951158
+Mean IoU: 0.700766
