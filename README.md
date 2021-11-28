@@ -30,6 +30,9 @@ Estimated Total Size (MB): 555.48
 ```
 
 ```zsh
+# install pytorch 1.9.0
+./requirements.sh
+# convert and inference
 python3 torch2onnx.py
 python3 inference.py train_2001.jpg v3plus269_484.onnx
 >>>
