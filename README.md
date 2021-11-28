@@ -55,7 +55,7 @@ Mean IoU: 0.703659
 
 ## useful train tecs
 ```txt
-1. optimizer==AdaBelief, loss=Focal-loss
+1. optimizer==AdaBelief, loss==Focal-loss
 2. 1st train with "HorizontalFlip"(augmentation)
 3. 2st fine-tune train with "MultiplicativeNoise" (which is unrelated to 'HorizontalFlip')
 4. gamma contrast adjustment with 3.0 value (Not histgram-avarage)
