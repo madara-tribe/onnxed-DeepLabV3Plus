@@ -60,3 +60,4 @@ Mean IoU: 0.703659
 
 # References
 - [Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer)
+- [Albumentationsのaugmentationをひたすら動かす](https://qiita.com/kurilab/items/b69e1be8d0224ae139ad)
