@@ -19,7 +19,7 @@ Params size (MB): 6.91
 Estimated Total Size (MB): 555.48
 ```
 
-# ONNX conversion and prediction on Cuda
+# ONNX conversion and Inference Latency on Cuda
 ```
 - onnx 1.9.0
 - cuda driver version > 440.33
