@@ -8,7 +8,8 @@
 ```
 # abstract about DeeplabV3Plus
 
-![deeplabv3plus](https://user-images.githubusercontent.com/48679574/143728609-dbcec6b2-8cae-4911-b760-0053aa21dc21.png)
+<img src="https://user-images.githubusercontent.com/48679574/143728609-dbcec6b2-8cae-4911-b760-0053aa21dc21.png" width="850px">
+
 
 ## Deeplabv3+ backborn(mobileNet) size
 
