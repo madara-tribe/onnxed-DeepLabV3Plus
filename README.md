@@ -7,6 +7,17 @@
 - onnx 1.10.2
 ```
 
+## Deeplabv3+ backborn(mobileNet) size
+```txt
+Total params: 1,811,712
+Trainable params: 1,811,712
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 1.68
+Forward/backward pass size (MB): 546.89
+Params size (MB): 6.91
+Estimated Total Size (MB): 555.48
+```
 
 # ONNX conversion
 ```
