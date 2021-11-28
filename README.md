@@ -53,9 +53,9 @@ Mean IoU: 0.703659
 ```
 <b>image / target / pred</b>
 
-<img src="https://user-images.githubusercontent.com/48679574/143726100-248e44a7-20d9-4c43-a815-1161fc2bc6b9.png" width="900px">
-<img src="https://user-images.githubusercontent.com/48679574/143726114-15b2c56b-1f5c-4257-95f3-ff1c9a8d91af.png" width="900px">
-<img src="https://user-images.githubusercontent.com/48679574/143726118-a142df45-034f-4fa5-a441-fe935db35b9b.png" width="900px">
+<img src="https://user-images.githubusercontent.com/48679574/143726100-248e44a7-20d9-4c43-a815-1161fc2bc6b9.png" width="1000px">
+<img src="https://user-images.githubusercontent.com/48679574/143726114-15b2c56b-1f5c-4257-95f3-ff1c9a8d91af.png" width="1000px">
+<img src="https://user-images.githubusercontent.com/48679574/143726118-a142df45-034f-4fa5-a441-fe935db35b9b.png" width="1000px">
 
 ## useful train tecs
 ```txt
