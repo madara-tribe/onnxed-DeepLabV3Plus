@@ -19,11 +19,18 @@ Params size (MB): 6.91
 Estimated Total Size (MB): 555.48
 ```
 
-# ONNX conversion
+# ONNX conversion and prediction on Cuda
 ```
 - onnx 1.9.0
 - cuda driver version > 440.33
 - opset 11 or more
+```
+
+```zsh
+python3 torch2onnx.py
+python3 inference.py train_2001.jpg v3plus269_484.onnx
+>>>
+Inference Latency (ms) until saved is 60.21833419799805 [ms]
 ```
 
 # Results
