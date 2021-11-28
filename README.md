@@ -7,3 +7,12 @@
 - onnx 1.10.2
 ```
 
+
+# ONNX conversion
+```
+- onnx 1.9.0
+- cuda driver version > 440.33
+- opset 11 or more
+```
+
+
