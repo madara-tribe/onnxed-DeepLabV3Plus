@@ -8,6 +8,9 @@
 ```
 
 ## Deeplabv3+ backborn(mobileNet) size
+
+See detail from model_spec.txt
+
 ```txt
 Total params: 1,811,712
 Trainable params: 1,811,712
@@ -34,6 +37,7 @@ Inference Latency (ms) until saved is 60.21833419799805 [ms]
 ```
 
 # Results
+See detail accuracyLog.txt
 ```txt
 Overall Acc: 0.974881
 Mean Acc: 0.750294
