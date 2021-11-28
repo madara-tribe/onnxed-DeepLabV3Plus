@@ -40,7 +40,7 @@ Inference Latency (ms) until saved is 60.21833419799805 [ms]
 ```
 
 # Results
-See detail accuracyLog.txt
+See detail accuracyLog.txt. Its <b>IoU is 70.3659%</b>
 ```txt
 Overall Acc: 0.974881
 Mean Acc: 0.750294
