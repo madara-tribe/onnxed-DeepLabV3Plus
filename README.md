@@ -46,4 +46,17 @@ Mean IoU: 0.703659
 <img src="https://user-images.githubusercontent.com/48679574/143726114-15b2c56b-1f5c-4257-95f3-ff1c9a8d91af.png" width="850px">
 <img src="https://user-images.githubusercontent.com/48679574/143726118-a142df45-034f-4fa5-a441-fe935db35b9b.png" width="850px">
 
+## useful train tecs
+```txt
+1. optimizer==AdaBelief, loss=Focal-loss
+2. 1st train with "HorizontalFlip"(augmentation)
+3. 2st fine-tune train with "MultiplicativeNoise" (which is unrelated to 'HorizontalFlip')
+4. gamma contrast adjustment with 3.0 value (Not histgram-avarage)
+5. crop unrelated area to segmentation (under 35 pixel)
+```
 
+
+
+
+# References
+- [Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer)
