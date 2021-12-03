@@ -1,4 +1,3 @@
-Device: cuda
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
@@ -40,4 +39,3 @@ Forward/backward pass size (MB): 74.22
 Params size (MB): 13.01
 Estimated Total Size (MB): 125254.88
 ----------------------------------------------------------------
-teacher weight loading weight........
