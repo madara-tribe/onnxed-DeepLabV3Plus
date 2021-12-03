@@ -6,24 +6,24 @@
 - onnxruntime 1.9.0
 - onnx 1.10.2
 ```
-# abstract about DeeplabV3Plus
+# Abstract about DeeplabV3Plus
 
 <img src="https://user-images.githubusercontent.com/48679574/143728609-dbcec6b2-8cae-4911-b760-0053aa21dc21.png" width="850px">
 
 
-## Deeplabv3+ backborn(mobileNet) size
+## Deeplabv3+ classifier size
 
-See detail from model_spec.txt
+See detail from model_specs/classifier_spec.txt
 
 ```txt
-Total params: 1,811,712
-Trainable params: 1,811,712
+Total params: 3,409,893
+Trainable params: 3,409,893
 Non-trainable params: 0
 ----------------------------------------------------------------
-Input size (MB): 1.68
-Forward/backward pass size (MB): 546.89
-Params size (MB): 6.91
-Estimated Total Size (MB): 555.48
+Input size (MB): 125167.65
+Forward/backward pass size (MB): 74.22
+Params size (MB): 13.01
+Estimated Total Size (MB): 125254.88
 ```
 
 # ONNX convert and Inference Latency on Cuda
